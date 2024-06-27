@@ -2,4 +2,5 @@ two
 updated
 
 2
-2 on development branch
+
+solved merge conflict on dev branch
